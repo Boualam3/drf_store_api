@@ -1,7 +1,1 @@
-# The astrrisk (\*) does not include in below jwt auth ## also this authorization for boualam admin select at 11:34 8/5/2023 has 1 days of validity
 
-*eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjgzNjI4MzExLCJpYXQiOjE2ODM1NDE5MTEsImp0aSI6ImFhZmRiODg5MDVjOTRiMGU5OTU0ZWJkY2I5YTM0ZTRjIiwidXNlcl9pZCI6MX0.W6Pa0-Fe5dj233aZz9GHETtwnKOlMjZsI49CmcVfdF4*
-
-# this auth below for non admin user
-
-*eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjgzNjI5MDc0LCJpYXQiOjE2ODM1NDI2NzQsImp0aSI6IjljNTE0NGRmYzQxZTRiZDU5ZjJiOWJmYzIxNmZmN2FmIiwidXNlcl9pZCI6M30.t3SretCE4fARvTvSLgxEM5db7IfMYAQgkJDVLJRq4wY*
